@@ -1,0 +1,11 @@
+bpython==0.24
+future==1.0.0
+HTMLParser==0.0.2
+ipython==8.12.3
+itchat==1.2.32
+itchat_uos==1.5.0.dev0
+openpyxl==3.1.2
+pytest==8.1.1
+Requests==2.31.0
+setuptools==69.2.0
+sphinx_rtd_theme==2.0.0
