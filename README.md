@@ -14,3 +14,6 @@ The purpose of this project is to develop a functional tool for retrieving infor
 ```bash
 git clone https://github.com/dapao1988/wechat_information
 
+2. Install dependencies
+```bash
+pip install -r ./requirements.txt
